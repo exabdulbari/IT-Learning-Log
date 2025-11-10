@@ -4,7 +4,7 @@
 Common errors and steps to fix them.
 
 ## 1. Blue Screen of Death (BSOD)
-## Often RAM or PSU issue
+# Often RAM or PSU issue
 - Causes: Driver issues, hardware failure, corrupted files.
 - Fix:
   1. Note the error code (e.g., `IRQL_NOT_LESS_OR_EQUAL`).
